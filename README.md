@@ -18,4 +18,4 @@ https://github.com/veerapatadia/TickTalkClock/assets/150000048/85e88d1a-f36b-452
 ![Screenshot_20240408_094900](https://github.com/veerapatadia/TickTalkClock/assets/150000048/7ab671f8-b972-48b7-a1db-31d2ef4a9707)
 ![Screenshot_20240408_094938](https://github.com/veerapatadia/TickTalkClock/assets/150000048/d080a82e-ce30-49d3-b0fe-4347e6675c40)
 ![Screenshot_20240408_095036](https://github.com/veerapatadia/TickTalkClock/assets/150000048/59606318-8297-4e3f-b364-0810667ff988)
-![Screenshot_20240408_101322](https://github.com/veerapatadia/TickTalkClock/assets/150000048/b243c0fc-44de-4b0a-a687-d324f91ba280)
+![Screenshot_20240408_105519](https://github.com/veerapatadia/TickTalkClock/assets/150000048/97085a3c-0448-4056-b557-2b59eeb1e7dd)
