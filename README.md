@@ -10,6 +10,8 @@ TickTalkClock isn't just about telling time; it's about enhancing your productiv
 
 Download TickTalkClock now and unlock the power of time management with elegance and efficiency. Your time is precious - let TickTalkClock help you make the most of every moment.
 
+https://github.com/veerapatadia/TickTalkClock/assets/150000048/85e88d1a-f36b-4522-9623-444e981d5d7e
+
 ![Screenshot_20240408_094736](https://github.com/veerapatadia/TickTalkClock/assets/150000048/d5d7a0a7-4ff5-4b7a-b6d5-57f30101e084)
 ![Screenshot_20240408_094826](https://github.com/veerapatadia/TickTalkClock/assets/150000048/79f448c5-2659-4623-be2f-b1a86716466c)
 ![Screenshot_20240408_094840](https://github.com/veerapatadia/TickTalkClock/assets/150000048/b7c94475-b440-4aeb-a9a1-bbf8b239690b)
