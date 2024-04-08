@@ -9,3 +9,13 @@ Never miss a beat with customizable alarms that ensure you start your day on the
 TickTalkClock isn't just about telling time; it's about enhancing your productivity and organization. Seamlessly switch between clock styles to suit your mood or preference, whether you're tracking time at work, keeping pace with your daily routine, or simply enjoying the aesthetics of classic analog design.
 
 Download TickTalkClock now and unlock the power of time management with elegance and efficiency. Your time is precious - let TickTalkClock help you make the most of every moment.
+
+![Screenshot_20240408_094736](https://github.com/veerapatadia/TickTalkClock/assets/150000048/d5d7a0a7-4ff5-4b7a-b6d5-57f30101e084)
+![Screenshot_20240408_094826](https://github.com/veerapatadia/TickTalkClock/assets/150000048/79f448c5-2659-4623-be2f-b1a86716466c)
+![Screenshot_20240408_094840](https://github.com/veerapatadia/TickTalkClock/assets/150000048/b7c94475-b440-4aeb-a9a1-bbf8b239690b)
+![Screenshot_20240408_094900](https://github.com/veerapatadia/TickTalkClock/assets/150000048/7ab671f8-b972-48b7-a1db-31d2ef4a9707)
+![Screenshot_20240408_094938](https://github.com/veerapatadia/TickTalkClock/assets/150000048/d080a82e-ce30-49d3-b0fe-4347e6675c40)
+![Screenshot_20240408_095036](https://github.com/veerapatadia/TickTalkClock/assets/150000048/59606318-8297-4e3f-b364-0810667ff988)
+![Screenshot_20240408_095139](https://github.com/veerapatadia/TickTalkClock/assets/150000048/f4f40ddd-2592-4926-86e8-b63909f19ebe)
+
+
