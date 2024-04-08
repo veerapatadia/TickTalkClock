@@ -16,6 +16,5 @@ Download TickTalkClock now and unlock the power of time management with elegance
 ![Screenshot_20240408_094900](https://github.com/veerapatadia/TickTalkClock/assets/150000048/7ab671f8-b972-48b7-a1db-31d2ef4a9707)
 ![Screenshot_20240408_094938](https://github.com/veerapatadia/TickTalkClock/assets/150000048/d080a82e-ce30-49d3-b0fe-4347e6675c40)
 ![Screenshot_20240408_095036](https://github.com/veerapatadia/TickTalkClock/assets/150000048/59606318-8297-4e3f-b364-0810667ff988)
-![Screenshot_20240408_095139](https://github.com/veerapatadia/TickTalkClock/assets/150000048/f4f40ddd-2592-4926-86e8-b63909f19ebe)
-
+![Screenshot_20240408_095139](https://github.com/veerapatadia/TickTalkClock/assets/150000048/a181a07e-86b3-4a01-9fb3-a55e6e1960a2)
 
